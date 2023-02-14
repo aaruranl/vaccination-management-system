@@ -1,4 +1,4 @@
-# vaccination-management-system
+# Vaccination Management System
 A vaccination management system is a software program designed to manage the administration of vaccinations. It can help healthcare providers keep track of vaccine inventory, schedule appointments, and record patient information.
 
 # c# and MySQL
